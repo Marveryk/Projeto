@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
     <style>
             body{
-                background-image: url(Background2.jpg);
+                background-image: url(Background.jpg);
                 background-repeat:no-repeat;
                 background-size:cover;
                 background-position: center center;
